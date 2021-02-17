@@ -27,3 +27,14 @@
 |--|--|--|
 <br>
 <br>
+
+--- 
+
+<p align="center">
+   <i>
+     "Work Hard, have fun, make history" <br>
+                                         -Jeff Bezos
+  </i>
+</p>       
+
+---
