@@ -32,7 +32,7 @@
 
 <p align="center">
    <i>
-     "Work Hard, have fun, make history" <br>
+     "Work hard, have fun, make history" <br>
                                          -Jeff Bezos
   </i>
 </p>       
