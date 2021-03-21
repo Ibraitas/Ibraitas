@@ -3,8 +3,8 @@
  ![Profile views](https://gpvc.arturio.dev/Ibraitas?v=3)
 
 - #### From Minsk, Belarus.
+- #### Data Science Engineer at PlatformIO
 - #### Student of Computer Science & Engineering, <a href="https://www.bsuir.by/index.jsp?resID=100229&lang=en" target="_blank">Belarusian State University of Informatics and Radioelectronics</a>.
-- #### I'm currently learing Data Science.<br> 
 <p>
  <img align="right" src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/programmer.gif" width="310px alt="programmergif">
 </p>
