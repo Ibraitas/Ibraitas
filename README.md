@@ -1,6 +1,6 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/hi.gif" width="40px"/> I'm <a href="https://ibraitas.github.io/My_Portfolio/" target="_blank">Nikita Lesnichenko</a>. Nice to see you.🤗</h1>
 
- ![Profile views](https://gpvc.arturio.dev/Ibraitas?v=3)
+ ![Profile views](https://komarev.com/ghpvc/?username=Ibraitas&color=blue)
 
 - #### From Minsk, Belarus.
 - #### Data Science Engineer at PlatformIO
