@@ -3,7 +3,7 @@
  ![Profile views](https://komarev.com/ghpvc/?username=Ibraitas&color=blue)
 
 - #### From Minsk, Belarus.
-- #### RnD Endgineer & Product Manager at PlatformIO
+- #### RnD Endgineer & Product Manager at RichAds
 - #### Student of Computer Science & Engineering, <a href="https://www.bsuir.by/index.jsp?resID=100229&lang=en" target="_blank">Belarusian State University of Informatics and Radioelectronics</a>.
 <p>
  <img align="right" src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/programmer.gif" width="310px alt="programmergif">
